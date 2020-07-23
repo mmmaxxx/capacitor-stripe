@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+	package
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:3:7-77
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:3-9:14
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:2:13-71
+application
+ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:4:5-8:19
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:5:7-7:38
+	android:value
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:7:15-35
+	android:name
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:6:15-71
+uses-sdk
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		ADDED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml

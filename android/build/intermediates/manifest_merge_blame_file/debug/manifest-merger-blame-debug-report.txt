@@ -1,0 +1,23 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rhm.plugins.applegooglepay.capacitorapplegooglepaystripe"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:4:5-8:19
+12        <meta-data
+12-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:5:7-7:38
+13            android:name="com.google.android.gms.wallet.api.enabled"
+13-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:6:15-71
+14            android:value="true" />
+14-->/Users/max/ionic/tv5Monde/node_modules/capacitor-apple-google-pay-stripe/android/src/main/AndroidManifest.xml:7:15-35
+15    </application>
+16
+17</manifest>
